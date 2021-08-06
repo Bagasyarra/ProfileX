@@ -14,14 +14,14 @@ Asymnetric#9269
 
 Asymnetric.5G
 
-###🎮Origin
+### 🎮Origin
 
 Asymnetric21
 
-###🎮Battlenet
+### 🎮Battlenet
 
 Asymnetric5g#1130
 
-###🎮Mobile Legends
+### 🎮Mobile Legends
 
 Asymnetric
