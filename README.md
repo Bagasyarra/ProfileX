@@ -4,7 +4,7 @@ Here you can find my accounts from various videogames
 
 ### 🎮Steam
 
-Visit: https://steamcommunity.com/id/asymnetric21/
+[Visit my steam on web](https://steamcommunity.com/id/asymnetric21/) 
 
 ### 🎮Valorant/riot
 
